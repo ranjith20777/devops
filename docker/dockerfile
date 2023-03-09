@@ -1,0 +1,3 @@
+FROM: ubuntu
+WORKDIR: info/
+RUN: apt update
