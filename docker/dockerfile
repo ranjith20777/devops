@@ -1,3 +1,5 @@
 FROM: ubuntu
 WORKDIR: info/
 RUN: apt update
+
+# https://docs.docker.com/engine/reference/builder/
